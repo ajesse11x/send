@@ -125,7 +125,7 @@
     "fluent-langneg": "^0.1.0",
     "helmet": "^3.15.0",
     "mkdirp": "^0.5.1",
-    "mozlog": "^2.2.0",
+    "mozlog": "^3.0.2",
     "raven": "^2.6.4",
     "redis": "^2.8.0"
   },
