@@ -6,3 +6,5 @@ pytest==4.1.0
 pytest-html==1.19.0
 pytest-selenium==1.15.1
 pytest-xdist==1.25.0
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
